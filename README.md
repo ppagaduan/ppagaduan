@@ -17,9 +17,9 @@ my name is **paige pagaduan** and i am a third-year data science student at univ
 - machine learning
 - 
 
-# 📫 bow to reach me:
+# 📫 how to reach me:
 - ppagaduan@ucsd.edu
-- [linkedin]([https://www.linkedin.com/in/paige-pagaduan-3a6632254/])
+- [linkedin]([url](https://www.linkedin.com/in/paige-pagaduan-3a6632254/))
 
 # ⚡ fun facts:
 - i have a cat and a dog! 🐱🐶
