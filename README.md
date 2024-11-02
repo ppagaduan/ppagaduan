@@ -3,11 +3,15 @@ my name is **paige pagaduan** and i am a third-year data science student at univ
 
 # 🔭 i’m currently working on ...
 - a nurse recommender system with AskMargot!
+- analyzing longitudinal health data with the **SOL-INCA lab at UCSD** 
+- 
 
 # 🌱 I’m currently learning ...
+- how to 
 
 # 👯 i’m looking to collaborate on ...
-- 🤔 i’m looking for help with ...
+- optimizing healthcare for all
+- 
 
 # 💬 ask me about
 - machine learning
@@ -15,8 +19,11 @@ my name is **paige pagaduan** and i am a third-year data science student at univ
 
 # 📫 bow to reach me:
 - ppagaduan@ucsd.edu
+- [linkedin]([url](https://www.linkedin.com/in/paige-pagaduan-3a6632254/))
 
-- ⚡ Fun fact: ...
+# ⚡ fun facts:
+- i have a cat and a dog! 🐱🐶
+- 
 
 <!--
 **ppagaduan/ppagaduan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
