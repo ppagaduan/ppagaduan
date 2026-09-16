@@ -1,17 +1,17 @@
 ## hi there !! 👋
-my name is **paige pagaduan** and i am a third-year data science student at university of california, san diego! my pronouns are she/her
+my name is **paige pagaduan** and i am a new grad from the university of california, san diego, with a major in data science and minor in cognitive science! my pronouns are she/her
 
 # 🔭 i’m currently working on ...
-- planning interactive computing events for **ACM @ UCSD**
-- analyzing longitudinal health data with the **SOL-INCA lab at UCSD** 
-- building a machine learning model for diagnosing ADHD in women for the **WiDS dataathon**
+- interning at the San Diego Association of Governments
+- applying to graduate school !!
 
 # 🌱 I’m currently learning ...
-- how to balance work, school, and my hobbies (!!)
+- yoga and pilates
 
 # 👯 i’m looking to collaborate on ...
 - optimizing healthcare for all
 - using AI ethically
+- using data to support communities in need
 
 # 💬 ask me about
 - machine learning
